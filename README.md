@@ -21,7 +21,3 @@ Education:
 
 
 
-
-
-
-# Me
